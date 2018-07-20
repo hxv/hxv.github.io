@@ -1,0 +1,29 @@
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/"
+url:            "https://blog.hxv.me"
+
+# Author
+author:
+  name:         Michał Włodarczyk
+  url:          https://blog.hxv.me
+  email:        admin@hxv.me
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
