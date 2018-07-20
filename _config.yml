@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          blog.hxv.me
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://blog.hxv.me"
