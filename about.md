@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 ## Email
-(admin@hxv.me)[mailto:admin@hxv.me]
+admin@hxv.me
 
 ## GPG Key
 ```
