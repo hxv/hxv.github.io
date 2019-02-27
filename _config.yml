@@ -27,3 +27,6 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+keep_files:
+    - key.pub
